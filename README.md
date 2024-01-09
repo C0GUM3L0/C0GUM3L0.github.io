@@ -1,2 +1,3 @@
 # C0GUM3L0.github.io
-Eric Hoffmann
+
+foda-se o sistema parceiro
